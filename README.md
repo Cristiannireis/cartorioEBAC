@@ -1,4 +1,4 @@
-# Projeto orientado de foramção em TI da EBAC
+# Projeto orientado de formação em TI da EBAC
 
 ## cartorioEBAC
 
